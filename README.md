@@ -5,11 +5,8 @@
 * Introduction
 * Overview
 * After Fresh Installation
-
   * Configuration
-
   * Essential Environment Setup
-
   * Essential Applications
 
 * Development Tools Setup
@@ -23,6 +20,3 @@
   * JavaScript
   * FrontEnd \(HTML/CSS/JavaScript\)
 * Others
-
-
-
