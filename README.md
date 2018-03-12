@@ -5,10 +5,13 @@
 * Introduction
 * Overview
 * After Fresh Installation
+
   * Configuration
 
   * Essential Environment Setup
+
   * Essential Applications
+
 * Development Tools Setup
   * Intelligent Code Editor Setup
   * Terminal Setup
